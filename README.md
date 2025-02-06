@@ -1,19 +1,21 @@
-# Space Jump 🚀
+# Potato Run and Burn 🥔🔥
 
-**Space Jump** is a simple web-based game where you control an astronaut, avoid obstacles, and collect items. The game runs in the browser and features sound effects and a scoring system.
+**Potato Run and Burn** is a simple and fun 2D jump and run game where you control a potato character to avoid obstacles and survive as long as possible. The goal is to navigate through the environment while avoiding burning obstacles.
 
-## Features 🌌
-- Control the astronaut using the keyboard
-- Obstacles and collectible items
-- Sound effects and scoring system
-- Playable offline with PWA support (Install button has been disabled for licensing reasons)
-# Space Jump  🚀
+This is the first game I ever coded in 2024!
 
-**Space Jump** ist ein einfaches webbasiertes Spiel, in dem du einen Astronauten steuerst, Hindernissen ausweichst und Items sammelst. Das Spiel läuft im Browser und bietet Soundeffekte sowie ein Punktesystem.  
+## Features 🍟
+- Simple jump and run mechanics
+- Avoid obstacles to stay alive
+- Endless gameplay
 
-## Features  🌌
-- Steuerung des Astronauten per Tastatur  
-- Hindernisse und sammelbare Items  
-- Soundeffekte und Punktesystem  
-- Offline spielbar durch PWA-Unterstützung (Install-Button wurde deaktiviert aus Lizenzgründen)  
+## How to Play 🎮
+- Use the arrow keys or spacebar to control the potato
+- Jump over obstacles and avoid the burning areas
+- Try to survive as long as possible
 
+## Play Online 🌐
+You can try the game directly in your browser here:  
+[Play Potato Run and Burn](https://mervebalcok.github.io/potato-jump-or-burn/)
+
+Enjoy the game, and have fun! 🚀
